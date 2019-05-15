@@ -1,6 +1,6 @@
 {
   "name": "10x",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "speed up development with a command line tool to template files",
   "main": "index.js",
   "scripts": {
