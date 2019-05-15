@@ -1,5 +1,5 @@
 {
-  "name": "10x",
+  "name": "10x-dev",
   "version": "0.0.1",
   "description": "speed up development with a command line tool to template files",
   "main": "index.js",
@@ -18,5 +18,8 @@
   "license": "MIT",
   "devDependencies": {
     "standard": "^12.0.1"
+  },
+  "bin": {
+    "10x": "./index.js"
   }
 }
